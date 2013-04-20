@@ -29,10 +29,10 @@ msgid "Profile"
 msgstr "Profil"
 
 msgid "Sign out"
-msgstr "Déconnexion"
+msgstr "D&#233;connexion"
 
 msgid "Login to client area"
-msgstr "Accès client"
+msgstr "Acc&#232;s client"
 
 msgid "Email address"
 msgstr "Adresse mail"
@@ -44,13 +44,13 @@ msgid "Sign in"
 msgstr "Connexion"
 
 msgid "Select language"
-msgstr "Sélectionner la langue"
+msgstr "S&#233;lectionner la langue"
 
 msgid "Popular articles"
 msgstr "Articles populaires"
 
 msgid "Recent posts"
-msgstr "Messages récents"
+msgstr "Messages r&#233;cents"
 
 msgid "Forum topics"
 msgstr "Sujets du forum"
@@ -62,7 +62,7 @@ msgid "Register"
 msgstr "S'enregistrer"
 
 msgid "Incorrect please try again"
-msgstr "Incorrect veuillez réessayer"
+msgstr "Incorrect veuillez r&#233;essayer"
 
 msgid "Enter the words above"
 msgstr "Entrez les mots ci-dessus"
@@ -74,13 +74,13 @@ msgid "Order confirmation"
 msgstr "Confirmation de la commande"
 
 msgid "These are the products you have selected"
-msgstr "Ce sont les produits que vous avez sélectionnés"
+msgstr "Ce sont les produits que vous avez s&#233;lectionn&#233;s"
 
 msgid "Product"
 msgstr "Produit"
 
 msgid "Period"
-msgstr "Période"
+msgstr "P&#233;riode"
 
 msgid "Price"
 msgstr "Prix"
@@ -95,7 +95,7 @@ msgid "Apply"
 msgstr "Appliquer"
 
 msgid "Reset"
-msgstr "Réinitialiser"
+msgstr "R&#233;initialiser"
 
 msgid "Total:"
 msgstr "Total:"
@@ -110,19 +110,19 @@ msgid "Login"
 msgstr "Connexion"
 
 msgid "Reset password"
-msgstr "Mot de passe oublié"
+msgstr "Mot de passe oubli&#233;"
 
 msgid "Do not have an account yet?"
-msgstr "Avez-vous déjà un compte?"
+msgstr "Avez-vous d&#233;j&#224; un compte?"
 
 msgid "Enter your details below"
-msgstr "Entrez vos coordonnées ci-dessous"
+msgstr "Entrez vos coordonn&#233;es ci-dessous"
 
 msgid "Create new profile"
-msgstr "Créer un nouveau profil"
+msgstr "Cr&#233;er un nouveau profil"
 
 msgid "First Name"
-msgstr "Prénom"
+msgstr "Pr&#233;nom"
 
 msgid "Last Name"
 msgstr "Nom"
@@ -131,16 +131,16 @@ msgid "Password confirm"
 msgstr "Confirmer le mot de passe:"
 
 msgid "You have not selected any product"
-msgstr "Vous n'avez sélectionné aucun produit"
+msgstr "Vous n'avez s&#233;lectionn&#233; aucun produit"
 
 msgid "Order new service"
-msgstr "Order new service"
+msgstr "Ordre nouveau service"
 
 msgid "Payments history"
 msgstr "Histoire des paiements"
 
 msgid "Here you can track your payments you have made and what you have been charged for"
-msgstr "Ici, vous pouvez suivre vos paiements que vous avez fait et que vous avez payé"
+msgstr "Ici, vous pouvez suivre vos paiements que vous avez fait et que vous avez pay&#233;"
 
 msgid "Amount"
 msgstr "Montant"
@@ -161,7 +161,7 @@ msgid "Balance"
 msgstr "Porte-monnaie"
 
 msgid "Add funds in advance"
-msgstr "Ajouter des fonds à l'avance"
+msgstr "Ajouter des fonds &#224; l'avance"
 
 msgid "You can add funds to your account if you have active order."
 msgstr "Vous pouvez ajouter des fonds sur votre compte si vous avez des commandes actives"
@@ -173,19 +173,19 @@ msgid "Login / Sign up"
 msgstr "Connexion / S'enregister"
 
 msgid "Company"
-msgstr "Société"
+msgstr "Soci&#233;t&#233;"
 
 msgid "Profile details"
-msgstr "Détails du profil"
+msgstr "D&#233;tails du profil"
 
 msgid "Keep your profile up to date"
-msgstr "Gardez votre profil à jour"
+msgstr "Gardez votre profil &#224; jour"
 
 msgid "Manage profile"
-msgstr "Gérez le profil"
+msgstr "G&#233;rez le profil"
 
 msgid "Details"
-msgstr "Détails"
+msgstr "D&#233;tails"
 
 msgid "Change Password"
 msgstr "Changer le mot de passe"
@@ -197,16 +197,16 @@ msgid "Currency"
 msgstr "Devise"
 
 msgid "Update profile"
-msgstr "Mettre à jour le profil"
+msgstr "Mettre &#224; jour le profil"
 
 msgid "Company Name"
-msgstr "Nom de la société"
+msgstr "Nom de la soci&#233;t&#233;"
 
 msgid "Phone Country Code"
 msgstr "Indicatifs internationaux"
 
 msgid "Phone Number"
-msgstr "Numéro de téléphone"
+msgstr "Num&#233;ro de t&#233;l&#233;phone"
 
 msgid "Address"
 msgstr "Addresse"
@@ -221,7 +221,7 @@ msgid "Country"
 msgstr "Pays"
 
 msgid "State"
-msgstr "État"
+msgstr "&#201;tat"
 
 msgid "Zip/Postal Code"
 msgstr "Code Postal"
@@ -233,22 +233,22 @@ msgid "Enter new password"
 msgstr "Entrer un nouveau mot de passe"
 
 msgid "Please register with"
-msgstr "Inscrivez-vous s'il vous plaît avec"
+msgstr "Inscrivez-vous s'il vous pla&#238;t avec"
 
 msgid "at "
-msgstr "à"
+msgstr "&#224;"
 
 msgid "to change your profile image. Gravatar image updates may not appear immediately."
-msgstr "pour changer votre image de profil. Les mises à jour de votre Gravatar peuvent ne pas apparaître immédiatement."
+msgstr "pour changer votre image de profil. Les mises &#224; jour de votre Gravatar peuvent ne pas appara&#238;tre imm&#233;diatement."
 
 msgid "Your profile currency is"
-msgstr "Votre devise de référence est"
+msgstr "Votre devise de r&#233;f&#233;rence est"
 
 msgid "Create new client profile if you want to manage your money in other currency"
-msgstr "Créer un profil nouveau client si vous voulez gérer votre argent dans une autre devise"
+msgstr "Cr&#233;er un profil nouveau client si vous voulez g&#233;rer votre argent dans une autre devise"
 
 msgid "Your profile currency will be defined after your first order. Once your currency is set, all your profile accounting will be managed in that currency and can not be changed."
-msgstr "Votre devise de référence va être définie après votre première commande. Une fois que votre devise est définie, toute la comptabilité de votre profil sera géré dans cette monnaie et ne peut pas être changé."
+msgstr "Votre devise de r&#233;f&#233;rence va &#234;tre d&#233;finie apr&#232;s votre premi&#232;re commande. Une fois que votre devise est d&#233;finie, toute la comptabilit&#233; de votre profil sera g&#233;r&#233; dans cette monnaie et ne peut pas &#234;tre chang&#233;."
 
 msgid "Back to emails"
 msgstr "Retour aux messages"
@@ -257,13 +257,13 @@ msgid "From"
 msgstr "De"
 
 msgid "To"
-msgstr "À"
+msgstr "&#192;"
 
 msgid "Sent"
-msgstr "Envoyé"
+msgstr "Envoy&#233;"
 
 msgid "Resend"
-msgstr "Réenvoyer"
+msgstr "R&#233;envoyer"
 
 msgid "Delete"
 msgstr "Supprimer"
@@ -272,10 +272,10 @@ msgid "Emails"
 msgstr "Messages"
 
 msgid "Emails we have sent you"
-msgstr "Les messages que nous vous avons envoyé"
+msgstr "Les messages que nous vous avons envoy&#233;"
 
 msgid "Here you can track emails we have sent you"
-msgstr "Ici vous pouvez suivre les messages que nous vous avons envoyé"
+msgstr "Ici vous pouvez suivre les messages que nous vous avons envoy&#233;"
 
 msgid "Email subject"
 msgstr "Sujet du message"
@@ -287,13 +287,13 @@ msgid "Forum"
 msgstr "Forum"
 
 msgid "Thread / Thread Starter"
-msgstr "Sujet / Débuté par"
+msgstr "Sujet / D&#233;but&#233; par"
 
 msgid "Last post"
 msgstr "Dernier message"
 
 msgid "Replies"
-msgstr "Réponses"
+msgstr "R&#233;ponses"
 
 msgid "Views"
 msgstr "Vues"
@@ -308,10 +308,10 @@ msgid "New topic"
 msgstr "Nouveau sujet"
 
 msgid "Start new topic in"
-msgstr "Démarrer un nouveau sujet dans"
+msgstr "D&#233;marrer un nouveau sujet dans"
 
 msgid "Start new topic"
-msgstr "Démarrer un nouveau sujet"
+msgstr "D&#233;marrer un nouveau sujet"
 
 msgid "Topic title"
 msgstr "Titre du sujet"
@@ -320,7 +320,7 @@ msgid "Topic message"
 msgstr "Corps du sujet"
 
 msgid "Create new topic"
-msgstr "Créer un nouveau sujet"
+msgstr "Cr&#233;er un nouveau sujet"
 
 msgid "Welcome to our forums. If you wish to become a member and post, you have to be registered member."
 msgstr "Bienvenue sur notre forum. Si vous souhaitez devenir membre et poster, vous devez vous inscrire."
@@ -332,16 +332,16 @@ msgid "Posts"
 msgstr "Messages"
 
 msgid "Forums are closed"
-msgstr "Les forums sont fermés"
+msgstr "Les forums sont ferm&#233;s"
 
 msgid "Topic information"
-msgstr "A définir"
+msgstr "A d&#233;finir"
 
 msgid "Topic"
 msgstr "Sujet"
 
 msgid "Started By"
-msgstr "Débuté par"
+msgstr "D&#233;but&#233; par"
 
 msgid "Messages"
 msgstr "Messages"
@@ -350,10 +350,10 @@ msgid "Since"
 msgstr "Depuis"
 
 msgid "Back to threads list"
-msgstr "Retour à la liste des sujets"
+msgstr "Retour &#224; la liste des sujets"
 
 msgid "Reply"
-msgstr "Répondre"
+msgstr "R&#233;pondre"
 
 msgid "Quote"
 msgstr "Citer"
@@ -365,13 +365,13 @@ msgid "Post"
 msgstr "Poster"
 
 msgid "No replies in this topic"
-msgstr "Aucune réponse à ce sujet"
+msgstr "Aucune r&#233;ponse &#224; ce sujet"
 
 msgid "Client Area"
 msgstr "Zone client"
 
 msgid "Tickets waiting your reply"
-msgstr "Billets en attente de votre réponse"
+msgstr "Billets en attente de votre r&#233;ponse"
 
 msgid "Id"
 msgstr "Id"
@@ -386,7 +386,7 @@ msgid "Status"
 msgstr "Statut"
 
 msgid "Submited"
-msgstr "Envoyé"
+msgstr "Envoy&#233;"
 
 msgid "ID"
 msgstr "ID"
@@ -401,10 +401,10 @@ msgid "Total"
 msgstr "Total"
 
 msgid "Paid"
-msgstr "Payé"
+msgstr "Pay&#233;"
 
 msgid "Unpaid"
-msgstr "Impayé"
+msgstr "Impay&#233;"
 
 msgid "All Invoices"
 msgstr "Toutes les factures"
@@ -440,7 +440,7 @@ msgid "New ticket"
 msgstr "Nouveau billet"
 
 msgid "Recent orders"
-msgstr "Dernières commandes"
+msgstr "Derni&#232;res commandes"
 
 msgid "Recent emails"
 msgstr "Derniers messages"
@@ -452,34 +452,34 @@ msgid "Order"
 msgstr "Commande"
 
 msgid "Order description"
-msgstr "A définir"
+msgstr "Description de la commande"
 
 msgid "Anouncements"
 msgstr "Annonces"
 
-msgid "Announcements description"
-msgstr "A définir"
+msgid "Description annonces"
+msgstr "Description annonces"
 
 msgid "Registration description"
-msgstr "A définir"
+msgstr "Description d'inscription"
 
 msgid "Contact Us"
 msgstr "Contacter nous"
 
 msgid "Contact us description"
-msgstr "A définir"
+msgstr "Contactez-nous Description"
 
 msgid "Knowledge Base"
-msgstr "FAQ"
+msgstr "Base de connaissances"
 
 msgid "Knowledge base description"
-msgstr "A définir"
+msgstr "Description Base de connaissances"
 
 msgid "Billing Software"
 msgstr "Logiciel de facturation"
 
 msgid "BoxBilling description"
-msgstr "A définir"
+msgstr "Description BoxBilling"
 
 msgid "Processing payment ..."
 msgstr "Traitement du paiement ..."
@@ -488,7 +488,7 @@ msgid "Redirecting to payment gateway.."
 msgstr "Redirection vers le paiement ..."
 
 msgid "Please click here to continue if this page does not redirect automatically in 5 seconds"
-msgstr "S'il vous plaît cliquer ici pour continuer, si cette page ne redirige pas automatiquement dans 5 secondes"
+msgstr "S'il vous pla&#238;t cliquer ici pour continuer, si cette page ne redirige pas automatiquement dans 5 secondes"
 
 msgid "List of invoices"
 msgstr "Liste des factures"
@@ -500,16 +500,16 @@ msgid "Title"
 msgstr "Titre"
 
 msgid "Issue Date"
-msgstr "Date d'émission"
+msgstr "Date d'&#233;mission"
 
 msgid "Due Date"
-msgstr "Date d'échéance"
+msgstr "Date d'&#233;ch&#233;ance"
 
 msgid "Pay"
 msgstr "Payer"
 
 msgid "Paid at"
-msgstr "Payé le"
+msgstr "Pay&#233; le"
 
 msgid "Proforma invoice"
 msgstr "Facture pro forma"
@@ -518,13 +518,13 @@ msgid "Proforma Invoice"
 msgstr "Facture pro forma"
 
 msgid "Please choose payment type and pay for your chosen products."
-msgstr "Veuillez s'il vous plaît choisir votre moyen de paiement pour vos produits choisis."
+msgstr "Veuillez s'il vous pla&#238;t choisir votre moyen de paiement pour vos produits choisis."
 
 msgid "Invoice"
 msgstr "Facture"
 
 msgid "Invoice is paid"
-msgstr "La facture a été payée"
+msgstr "La facture a &#233;t&#233; pay&#233;e"
 
 msgid "Discount"
 msgstr "Remise"
@@ -549,7 +549,7 @@ msgstr "ID Transaction"
 
 #, fuzzy
 msgid "Gateway"
-msgstr ""
+msgstr "Passerelle"
 
 msgid "Actions"
 msgstr "Actions"
@@ -558,16 +558,16 @@ msgid "Print"
 msgstr "Imprimer"
 
 msgid "Back to list"
-msgstr "Retour à la liste"
+msgstr "Retour &#224; la liste"
 
 msgid "Similiar articles"
 msgstr "Articles similaires"
 
 msgid "Knowledge base categories"
-msgstr "Catégories"
+msgstr "Cat&#233;gories"
 
 msgid "Knowledge base"
-msgstr "FAQ"
+msgstr "Base de connaissances"
 
 msgid "What are you looking for?"
 msgstr "Que cherchez-vous?"
@@ -576,13 +576,13 @@ msgid "Search"
 msgstr "Recherche"
 
 msgid "Try using other keyword. No matches not for keyword:"
-msgstr "Essayez d'utiliser d'autres mots-clés. Aucune corréspondance avec: "
+msgstr "Essayez d'utiliser d'autres mots-cl&#233;s. Aucune corr&#233;spondance avec: "
 
 msgid "Blog"
 msgstr "Blog"
 
 msgid "News & Announcements"
-msgstr "Actualités & annonces"
+msgstr "Actualit&#233;s & annonces"
 
 msgid "Track our latest posts"
 msgstr "Suivre nos derniers messages"
@@ -594,13 +594,13 @@ msgid "by "
 msgstr "par"
 
 msgid "Select Product"
-msgstr "Sélectionner un produit"
+msgstr "S&#233;lectionner un produit"
 
 msgid "Choose products we offer for selling"
 msgstr "Choisissez un des produits que nous vendons"
 
 msgid "Starting from:"
-msgstr "À partir de:"
+msgstr "&#192; partir de:"
 
 msgid "View products"
 msgstr "Voir les produits"
@@ -612,16 +612,16 @@ msgid "My Products & Services"
 msgstr "Mes Produits & Services"
 
 msgid "Ordered Services"
-msgstr "Services commandés"
+msgstr "Services command&#233;s"
 
 msgid "Product/Service"
 msgstr "Produit/Service"
 
 msgid "Next due date"
-msgstr "Date d'échéance suivante"
+msgstr "Date d'&#233;ch&#233;ance suivante"
 
 msgid "Service details"
-msgstr "Détails du service"
+msgstr "D&#233;tails du service"
 
 msgid "All information about your service"
 msgstr "Toutes les informations sur votre service"
@@ -633,16 +633,16 @@ msgid "Payment amount"
 msgstr "Montant du paiement"
 
 msgid "Billing cycle"
-msgstr "Période de facturation"
+msgstr "P&#233;riode de facturation"
 
 msgid "Order status"
 msgstr "Statut de la commande"
 
 msgid "Order created"
-msgstr "Commande créée"
+msgstr "Commande cr&#233;&#233;e"
 
 msgid "Activated at"
-msgstr "Activé à"
+msgstr "Activ&#233; &#224;"
 
 msgid "Renewal date"
 msgstr "Date de renouvellement"
@@ -657,7 +657,7 @@ msgid "Renew now"
 msgstr "Renouveler maintenant"
 
 msgid "Request Upgrade"
-msgstr "Demande de mise à niveau"
+msgstr "Demande de mise &#224; niveau"
 
 msgid "Open ticket"
 msgstr "Ouvir un billet"
@@ -681,31 +681,31 @@ msgid "Open new support ticket reagarding this order"
 msgstr "Ouvrir un nouveau billet de support concernant cette commande"
 
 msgid "Submit new support ticket. Ticket will be visible in support section after submission"
-msgstr "Soumettre un nouveau  billet de support. Le billet sera visible dans la section support après l'envoi"
+msgstr "Soumettre un nouveau  billet de support. Le billet sera visible dans la section support apr&#232;s l'envoi"
 
 msgid "Message"
 msgstr "Message"
 
 msgid "Request upgrade"
-msgstr "Demande de mise à niveau"
+msgstr "Demande de mise &#224; niveau"
 
 msgid "I would like to upgrade"
-msgstr "Je souhaiterai mettre à jour"
+msgstr "Je souhaiterai mettre &#224; jour"
 
 msgid "Upgrade to"
-msgstr "Mettre à jour vers"
+msgstr "Mettre &#224; jour vers"
 
 msgid "Notes"
 msgstr "Notes"
 
 msgid "Request"
-msgstr "Requête"
+msgstr "Requ&#234;te"
 
 msgid "Addons you have ordered with this service"
-msgstr "Modules que vous avez commandés pour ce service"
+msgstr "Modules que vous avez command&#233;s pour ce service"
 
 msgid "Billing Cycle"
-msgstr "Période de facturation"
+msgstr "P&#233;riode de facturation"
 
 msgid "Back to services"
 msgstr "Retour aux services"
@@ -714,13 +714,13 @@ msgid "Configure"
 msgstr "Configurer"
 
 msgid "The product/service you have chosen has the following configuration options for you to choose from."
-msgstr "Le produit/service que vous avez choisi a les options de configuration suivantes à vous de les choisir."
+msgstr "Le produit/service que vous avez choisi a les options de configuration suivantes &#224; vous de les choisir."
 
 msgid "Domain management"
 msgstr "Gestion de domaine"
 
 msgid "Domain details"
-msgstr "Détails du domaine"
+msgstr "D&#233;tails du domaine"
 
 msgid "Domain"
 msgstr "Domaine"
@@ -735,7 +735,7 @@ msgid "Domain Secret"
 msgstr "Secret du domaine"
 
 msgid "All domain names (except a .EU, .UK domain name) have a Domain (Transfer) Secret Key/Authorization Code (EPP Code) associated with them. This would be required if you want to transfer service."
-msgstr "Tous les noms de domaine (à l'exception de .EU, nom de domaine .UKi) ont un domaine (transfert) clé secrète / code d'autorisation (PPE Code) qui leur sont associés. Il sont nécessairse si vous voulez transférer de service."
+msgstr "Tous les noms de domaine (&#224; l'exception de .EU, nom de domaine .UK) ont un domaine (transfert) cl&#233; secr&#232;te / code d'autorisation (PPE Code) qui leur sont associ&#233;s. Il sont n&#233;cessairse si vous voulez transf&#233;rer de service."
 
 msgid "Send EPP code to email"
 msgstr "Envoyer le code PPE par email"
@@ -744,34 +744,34 @@ msgid "Domain Protection"
 msgstr "Protection du domaine"
 
 msgid "Domain locking is a security enhancement to prevent unauthorized transfers of your domain to another registrar or web host by \"locking\" your domain name servers."
-msgstr "Le verrouillage de domaine est un renforcement de la sécurité pour empêcher les transferts non autorisés de votre nom de domaine vers un autre registre ou d'hébergeur par \"verrouillage\" vos serveurs de noms de domaine"
+msgstr "Le verrouillage de domaine est un renforcement de la s&#233;curit&#233; pour emp&#234;cher les transferts non autoris&#233;s de votre nom de domaine vers un autre registre ou d'h&#233;bergeur par \"verrouillage\" vos serveurs de noms de domaine"
 
 msgid "Unlock"
-msgstr "Débloquer"
+msgstr "D&#233;bloquer"
 
 msgid "Lock"
 msgstr "Bloquer"
 
 msgid "Domain Privacy Settings"
-msgstr "Paramètres de confidentialité du domaine"
+msgstr "Param&#232;tres de confidentialit&#233; du domaine"
 
 msgid "If you would like to hide domain contact information which is shown on WHOIS you can enable privacy protection. Once domain privacy protection is enabled no one will know who registered this service. And once you decide to disable privacy protection, information that is listed above on \"Update Domain Contact Details\" section will be seen on domain WHOIS again."
-msgstr "Si vous souhaitez masquer les informations de contact de domaine qui sont affichés sur WHOIS, vous pouvez activer la protection de confidentialité. Une fois protection de la confidentialité du domaine est activé personne ne saura qui a enregistré ce service. Et une fois que vous décidez de désactiver la protection des renseignements, les informations énumérés ci-dessus sur \"Update domain contact details\" seront visibles de nouveau WHOIS."
+msgstr "Si vous souhaitez masquer les informations de contact de domaine qui sont affich&#233;s sur WHOIS, vous pouvez activer la protection de confidentialit&#233;. Une fois protection de la confidentialit&#233; du domaine est activ&#233; personne ne saura qui a enregistr&#233; ce service. Et une fois que vous d&#233;cidez de d&#233;sactiver la protection des renseignements, les informations &#233;num&#233;r&#233;s ci-dessus sur \"Update domain contact details\" seront visibles de nouveau WHOIS."
 
 msgid "Disable Privacy protection"
-msgstr "Désactiver la protection de confidentialité"
+msgstr "D&#233;sactiver la protection de confidentialit&#233;"
 
 msgid "Enable Privacy protection"
-msgstr "Activer la protection de confidentialité"
+msgstr "Activer la protection de confidentialit&#233;"
 
 msgid "Domain Nameservers"
 msgstr "Nom des serveurs du domaine"
 
 msgid "If you would like to host this domain with another company you can update nameservers."
-msgstr "Si vous souhaitez héberger ce domaine avec une autre société, vous pouvez mettre à jour les nomserveurs."
+msgstr "Si vous souhaitez h&#233;berger ce domaine avec une autre soci&#233;t&#233;, vous pouvez mettre &#224; jour les nomserveurs."
 
 msgid "Update nameservers"
-msgstr "Mettre à jour le nom des serveurs"
+msgstr "Mettre &#224; jour le nom des serveurs"
 
 msgid "Nameserver 1"
 msgstr "Nom serveur 1"
@@ -786,16 +786,16 @@ msgid "Nameserver 4"
 msgstr "Nom serveur 4"
 
 msgid "Update"
-msgstr "Mettre à jour"
+msgstr "Mettre &#224; jour"
 
 msgid "Domain Contact Details"
-msgstr "Détails de contact du domaine"
+msgstr "D&#233;tails de contact du domaine"
 
 msgid "Domain contact details will be displayed once someone will check WHOIS output (which is public) of your service. This will update Technical, Billing and Admin contacts for this service. You can enable domain privacy protection if you want to hide your public WHOIS information."
-msgstr "Coordonnées de domaine sera affiché une fois que quelqu'un va vérifier la sortie WHOIS (qui sont publique) de votre service. Ceci mettra à jour technique, de facturation et de contacts d'administration pour ce service. Vous pouvez activer protection de la confidentialité de domaine si vous voulez masquer votre information de WHOIS."
+msgstr "Coordonn&#233;es de domaine sera affich&#233; une fois que quelqu'un va v&#233;rifier la sortie WHOIS (qui sont publique) de votre service. Ceci mettra &#224; jour technique, de facturation et de contacts d'administration pour ce service. Vous pouvez activer protection de la confidentialit&#233; de domaine si vous voulez masquer votre information de WHOIS."
 
 msgid "Update domain contact details"
-msgstr "Mettre à jour les détails de contact du domaine"
+msgstr "Mettre &#224; jour les d&#233;tails de contact du domaine"
 
 msgid "Address Line 1"
 msgstr "Adresse 1"
@@ -807,22 +807,22 @@ msgid "Zip"
 msgstr "Code postal"
 
 msgid "Phone number"
-msgstr "Numéro de téléphone"
+msgstr "Num&#233;ro de t&#233;l&#233;phone"
 
 msgid "Register new domain"
 msgstr "Enregistrer un nouveau domaine"
 
 msgid "Transfer my domain"
-msgstr "Transférer mon domaine"
+msgstr "Transf&#233;rer mon domaine"
 
 msgid "Check domain availability"
-msgstr "Vérifiez la disponibilité du domaine"
+msgstr "V&#233;rifiez la disponibilit&#233; du domaine"
 
 msgid "Enter new domain name to register"
 msgstr "Entrez le nom du nouveau domaine  pour vous inscrire"
 
 msgid "Check"
-msgstr "Vérifier"
+msgstr "V&#233;rifier"
 
 msgid "Continue"
 msgstr "Continuer"
@@ -831,7 +831,7 @@ msgid "I want to use my nameservers"
 msgstr "Je veux utiliser mon nom de serveur"
 
 msgid "Enter your domain name to transfer"
-msgstr "Entrez votre nom de domaine à transférer"
+msgstr "Entrez votre nom de domaine &#224; transf&#233;rer"
 
 msgid "Transfer price"
 msgstr "Prix de transfert"
@@ -840,13 +840,13 @@ msgid "Enter domain transfer code"
 msgstr "Entrez le code de transfert de domaine"
 
 msgid "Download file"
-msgstr "Télécharger le fichier"
+msgstr "T&#233;l&#233;charger le fichier"
 
 msgid "Download"
-msgstr "Télécharger"
+msgstr "T&#233;l&#233;charger"
 
 msgid "Manage hosting account"
-msgstr "Gérer un compte d'hébergement"
+msgstr "G&#233;rer un compte d'h&#233;bergement"
 
 msgid "Username"
 msgstr "Nom d'utilisateur"
@@ -855,10 +855,10 @@ msgid "Server IP"
 msgstr "IP du serveur"
 
 msgid "Server Hostname"
-msgstr "Nom d'hôte du serveur"
+msgstr "Nom d'h&#244;te du serveur"
 
 msgid "Hosting plan"
-msgstr "Plan d'hébergement"
+msgstr "Plan d'h&#233;bergement"
 
 msgid "Bandwidth"
 msgstr "Bande passante"
@@ -867,25 +867,25 @@ msgid "per month"
 msgstr "Par mois"
 
 msgid "Disk quota"
-msgstr "Capacité du disque"
+msgstr "Capacit&#233; du disque"
 
 msgid "Manage domain"
-msgstr "Gérer le domaine"
+msgstr "G&#233;rer le domaine"
 
 msgid "Jump to cPanel"
-msgstr "Accéder à cPanel"
+msgstr "Acc&#233;der &#224; cPanel"
 
 msgid "Reseller control panel"
-msgstr "Panneau de contrôle revendeur"
+msgstr "Panneau de contr&#244;le revendeur"
 
 msgid "Nameservers"
 msgstr "Nomserveur"
 
 msgid "FTP details"
-msgstr "Détails FTP"
+msgstr "D&#233;tails FTP"
 
 msgid "Use these details to connect to your FTP account."
-msgstr "Utilisez ces identifiants pour vous connecter à votre compte FTP"
+msgstr "Utilisez ces identifiants pour vous connecter &#224; votre compte FTP"
 
 msgid "FTP IP"
 msgstr "IP FTP"
@@ -915,16 +915,16 @@ msgid "Change domain"
 msgstr "Changer de domaine"
 
 msgid "Please configure domain for your hosting account"
-msgstr "S'il vous plaît configurer de domaine pour votre compte d'hébergement"
+msgstr "S'il vous pla&#238;t configurer de domaine pour votre compte d'h&#233;bergement"
 
 msgid "Use own"
 msgstr "Use own"
 
 msgid "Transfer"
-msgstr "transférer"
+msgstr "transf&#233;rer"
 
 msgid "I will use my existing domain and update nameservers"
-msgstr "Je vais utiliser mon nom de domaine existant et mettre à jour le nomserveur"
+msgstr "Je vais utiliser mon nom de domaine existant et mettre &#224; jour le nomserveur"
 
 msgid "Enter your domain name"
 msgstr "Entrer votre nom de domaine"
@@ -933,7 +933,7 @@ msgid "Register a new domain"
 msgstr "Enregistrer un nouveau domaine"
 
 msgid "Transfer your domain from another registrar"
-msgstr "Transférer votre domaine depuis un autre registre"
+msgstr "Transf&#233;rer votre domaine depuis un autre registre"
 
 msgid "Account configuration"
 msgstr "Configuration du compte"
@@ -942,10 +942,10 @@ msgid "Enter your account username"
 msgstr "Entrer votre nom d'utilisateur"
 
 msgid "License details"
-msgstr "Détails de license"
+msgstr "D&#233;tails de license"
 
 msgid "Key"
-msgstr "Clé"
+msgstr "Cl&#233;"
 
 msgid "Valid IPs"
 msgstr "IP valides"
@@ -957,7 +957,7 @@ msgid "Valid Domains"
 msgstr "Domaines valides"
 
 msgid "All hosts"
-msgstr "Tous les hôtes"
+msgstr "Tous les h&#244;tes"
 
 msgid "Valid Versions"
 msgstr "Versions valides"
@@ -972,13 +972,13 @@ msgid "All paths"
 msgstr "Tous les chemins d'installation"
 
 msgid "Reset license"
-msgstr "Réinitialiser la license"
+msgstr "R&#233;initialiser la license"
 
 msgid "You can reset your license parameters if you have changed your server"
-msgstr "Vous pouvez réinitialiser vos paramètres de licence si vous avez modifié votre serveur"
+msgstr "Vous pouvez r&#233;initialiser vos param&#232;tres de licence si vous avez modifi&#233; votre serveur"
 
 msgid "Are you sure?"
-msgstr "Êtes-vous sûr?"
+msgstr "&#202;tes-vous s&#251;r?"
 
 msgid "Contact us"
 msgstr "Contacter-nous"
@@ -990,7 +990,7 @@ msgid "Send"
 msgstr "Envoyer"
 
 msgid "Ticket details"
-msgstr "Détails du billet"
+msgstr "D&#233;tails du billet"
 
 msgid "Author"
 msgstr "Auteur"
@@ -1011,13 +1011,13 @@ msgid "Tickets list"
 msgstr "Liste des billet"
 
 msgid "Close ticket"
-msgstr "Billet fermé"
+msgstr "Billet ferm&#233;"
 
 msgid "Support tickets"
 msgstr "Billet de support"
 
 msgid "Need an answer? We are here to help"
-msgstr "Besoin d'une réponse? Nous sommes là pour aider"
+msgstr "Besoin d'une r&#233;ponse? Nous sommes l&#224; pour aider"
 
 msgid "Submit new ticket"
 msgstr "Soumettre un nouveau billet"
@@ -1029,7 +1029,7 @@ msgid "Addons & extras"
 msgstr "Addons & extras"
 
 msgid "Select currency"
-msgstr "Sélectionner la devise"
+msgstr "S&#233;lectionner la devise"
 
 msgid "Home"
 msgstr "Accueil"
@@ -1044,47 +1044,48 @@ msgid "Total price:"
 msgstr "Prix total:"
 
 msgid "Quantity:"
-msgstr "Quantité:"
+msgstr "Quantit&#233;:"
 
 msgid "Setup Price"
 msgstr "Prix d''installation"
 
 msgid "Select product"
-msgstr "Sélectionner le produit"
+msgstr "S&#233;lectionner le produit"
 
 msgid "Confirm"
 msgstr "Confirmer"
 
-#~ msgid "Payment"
-#~ msgstr "Payment"
+msgid "Payment"
+msgstr "Payment"
 
-#~ msgid "Instructions to make payment"
-#~ msgstr "Instructions to make payment"
+msgid "Instructions to make payment"
+msgstr "Instructions pour effectuer le paiement"
 
-#~ msgid "Please wait ..."
-#~ msgstr "Please wait ..."
+msgid "Please wait ..."
+msgstr "Patientez s'il vous plaît ..."
 
-#~ msgid "Discount:"
-#~ msgstr "Discount:"
+msgid "Discount:"
+msgstr "Remise:"
 
-#~ msgid "Number test"
-#~ msgstr "Number test"
+msgid "Number test"
+msgstr "Nombre test"
 
-#~ msgid "Change your avatar at"
-#~ msgstr "Change your avatar at"
+msgid "Change your avatar at"
+msgstr "Changez votre avatar &#224;"
 
-#~ msgid "Reset account"
-#~ msgstr "Reset account"
+msgid "Reset account"
+msgstr "R&#233;initialiser compte"
 
-#~ msgid ""
-#~ "This function resets your account completely. All data on your account "
-#~ "will be lost."
-#~ msgstr ""
-#~ "This function resets your account completely. All data on your account "
-#~ "will be lost."
+msgid ""
+"This function resets your account completely. All data on your account "
+"will be lost."
 
-#~ msgid "I understand that my account data will be completely lost."
-#~ msgstr "I understand that my account data will be completely lost."
+msgstr ""
+"Cette fonction permet de restaurer compl&#232;tement votre compte. Toutes les donn&#233;es sur votre compte "
+"seront perdue."
 
-#~ msgid "en_US"
-#~ msgstr "English"
+msgid "I understand that my account data will be completely lost."
+msgstr "Je comprends que mes donn&#233;es de compte seront compl&#232;tement perdus."
+
+msgid "en_US"
+msgstr "Anglais"
